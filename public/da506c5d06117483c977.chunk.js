@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{1254:function(e,c,n){"use strict";n.r(c);var t=n(0),a=n.n(t);c.default=function(){return a.a.createElement("iframe",{className:"content-full",src:"https://www.yuque.com/docs/share/17060b2f-c900-4f79-8c66-2bb6a1221d57"})}}}]);
